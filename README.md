@@ -8,7 +8,9 @@ The project use api provided by "PokeAPI', https://pokeapi.co/. Currently the da
 
 Following is the sources taken from internet:
 1. Fonts used in the project:
+- title font (title) :
 https://www.dafont.com/pokemon.font
+- main text font :
 https://www.dafont.com/pkmn-rbygsc.font
 
 2. Some icons in the project:
