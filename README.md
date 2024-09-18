@@ -1,4 +1,4 @@
-# UnityPortfolio
+# Simple GEN1 pokedex
 A simple project for portfolio showcasing
 
 Disclaimer:
